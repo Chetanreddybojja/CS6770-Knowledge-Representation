@@ -1,0 +1,17 @@
+<KB>
+    <Individual>
+        <INDIVIDUAL>Lucy</INDIVIDUAL>
+        <Facts>
+            <FACT>
+                <ROLE>likes</ROLE>
+                <INDIVIDUAL>Apple</INDIVIDUAL>
+            </FACT>
+        </Facts>
+    </Individual>
+    <Individual>
+        <INDIVIDUAL>Apple</INDIVIDUAL>
+        <Types>
+            <CONCEPT>Fruit</CONCEPT>
+        </Types>
+    </Individual>
+</KB>

@@ -1,0 +1,13 @@
+<KB>
+    <Individual>
+        <INDIVIDUAL>Lucy</INDIVIDUAL>
+        <Types>
+            <EXISTS>
+                <ROLE>likes</ROLE>
+                <NOT>
+                    <CONCEPT>Fruit</CONCEPT>
+                </NOT>
+            </EXISTS>
+        </Types>
+    </Individual>
+</KB>

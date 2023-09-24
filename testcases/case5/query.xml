@@ -1,0 +1,10 @@
+<KB>
+    <Individual>
+        <INDIVIDUAL>Jack</INDIVIDUAL>
+        <Types>
+            <NOT>
+                <CONCEPT>Taxpayer</CONCEPT>
+            </NOT>
+        </Types>
+    </Individual>
+</KB>

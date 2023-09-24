@@ -1,0 +1,12 @@
+#---------------------------------------------------------------------
+# Shortforms in comments: a-> Lucy, b -> Apple, R -> likes, C -> Fruit
+#                         
+# R(a,b)
+# C(b)
+#---------------------------------------------------------------------
+
+Individual: Lucy
+ 	Facts: likes Apple
+
+Individual: Apple
+	Types: Fruit

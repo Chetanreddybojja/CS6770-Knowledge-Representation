@@ -1,0 +1,20 @@
+#---------------------------------------------------------------------
+# Shortforms in comments: L -> Landlord, H -> House, O -> owns, B -> Taxable, 
+#                         P -> Taxpayer, a -> Jack
+# ¬L ⊔ ∃O.H
+# ∀O.¬B ⊔ P
+# ¬H ⊔ B
+# L(a)
+#---------------------------------------------------------------------
+
+Class: NNF1
+   EquivalentTo:   not Landlord or owns some House
+
+Class: NNF2
+   EquivalentTo:   owns only not Taxable or Taxpayer 
+
+Class: NNF3
+   EquivalentTo:   not House or Taxable
+
+Individual: Jack
+   Types:	   Landlord

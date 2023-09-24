@@ -1,0 +1,12 @@
+#---------------------------------------------------------------------
+# Shortforms in comments: M-> Man
+#                         
+# M
+# ¬ M#
+# Expected Outcome: Unsatisfiable#---------------------------------------------------------------------
+
+Class: NNF1
+   EquivalentTo:    Man
+
+Class: NNF2
+   EquivalentTo:    not Man

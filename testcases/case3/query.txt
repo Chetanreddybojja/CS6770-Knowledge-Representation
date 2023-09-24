@@ -1,0 +1,9 @@
+# Query
+Individual: Lucy
+    Types:  like some Fruit  
+# Negated Query
+Individual: Lucy
+    Types:   like all not Fruit
+
+#Expected Outcome: Entailed
+#-- End of File

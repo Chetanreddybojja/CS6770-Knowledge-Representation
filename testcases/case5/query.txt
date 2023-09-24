@@ -1,0 +1,9 @@
+# Query
+Individual: Jack
+    Types: Taxpayer #-- P(a)
+# Negated Query
+Individual: Jack
+    Types: Taxpayer #-- ¬P(a)
+#
+# Expected Outcome: Entailed
+#-- End of File

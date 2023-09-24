@@ -1,0 +1,16 @@
+<KB>
+    <Class>
+        <CONCEPT>NNF1</CONCEPT>
+        <EquivalentTo>
+            <CONCEPT>Man</CONCEPT>
+        </EquivalentTo>
+    </Class>
+    <Class>
+        <CONCEPT>NNF2</CONCEPT>
+        <EquivalentTo>
+            <NOT>
+                <CONCEPT>Man</CONCEPT>
+             </NOT>
+        </EquivalentTo>
+    </Class>
+</KB>
